@@ -25,7 +25,9 @@ This project is a web-based application used to track employee attendance. It al
 
 ## Author
 
-**Srija Katta**  
+- **Srija Katta**  
+- **Andhra University college of Engineering**
+- **7337005097**
 GitHub: [https://github.com/KattaSrija](https://github.com/KattaSrija)
 
 ---
